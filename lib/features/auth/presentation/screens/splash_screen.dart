@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_animate/flutter_animate.dart';
 import 'package:newsapp/core/theme/app_theme.dart';
 import 'package:newsapp/core/widgets/widgets.dart';
+
+//  commented to avoid errors due to circular imports
 // import '../../../core/theme/app_theme.dart';
 // import '../../../core/widgets/widgets.dart';
 
