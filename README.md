@@ -28,6 +28,5 @@ samples, guidance on mobile development, and a full API reference.
 #### Thank you for your time. Please drop any of your idea, works, projects.
 
 # If you need to hire me: AM available immidiately. 
-  ## garomagalana3@gmail.com 
-  - t.me/experttobe
-  
+###### garomagalana3@gmail.com 
+###### https://t.me/experttobe
