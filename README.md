@@ -1,6 +1,6 @@
 # newsapp
 
-A new Flutter project.
+NewsApp application build in Flutter that available on androids, ios, linux, windows.
 
 ## Getting Started
 
@@ -15,3 +15,19 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+# Usefulnes
+ - For Students
+ - For researchers
+
+## Features
+   - UI is built via flutter /dart
+   - Backend and database is in firebase at all
+   - Pages number is more than 12 pages.
+
+#### Thank you for your time. Please drop any of your idea, works, projects.
+
+# If you need to hire me: AM available immidiately. 
+  ## garomagalana3@gmail.com 
+  - t.me/experttobe
+  
