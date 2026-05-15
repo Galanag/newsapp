@@ -5,6 +5,8 @@ import 'package:go_router/go_router.dart';
 import 'package:newsapp/core/providers/providers.dart';
 import 'package:newsapp/core/theme/app_theme.dart';
 import 'package:newsapp/core/widgets/widgets.dart';
+
+//  commented to avoid errors due to circular imports
 // import '../../../core/theme/app_theme.dart';
 // import '../../../core/providers/providers.dart';
 // import '../../../core/widgets/widgets.dart';

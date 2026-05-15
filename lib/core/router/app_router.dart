@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:newsapp/features/feed/presentation/screens/main.shell.dart';
+// import 'package:newsapp/features/feed/presentation/screens/main.shell.dart';
 import '../providers/providers.dart';
 import '../../features/auth/presentation/screens/login_screen.dart';
 import '../../features/auth/presentation/screens/register_screen.dart';
 import '../../features/feed/presentation/screens/home_screen.dart';
-// import '../../features/feed/presentation/screens/main_shell.dart';
+import '../../features/feed/presentation/screens/main_shell.dart';
 import '../../features/post/presentation/screens/create_post_screen.dart';
 import '../../features/post/presentation/screens/post_detail_screen.dart';
 import '../../features/profile/presentation/screens/profile_screen.dart';
